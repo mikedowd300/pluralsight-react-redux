@@ -6,7 +6,7 @@ class AboutPage extends Component {
     return (
       <div>
         <h1>Pluralsight Administration</h1>
-        <p>React, Redux and React Router in ES6 for ultra-responsive web apps.</p>
+        <h2>About Page</h2>
         <Link to="/" className="btn btn-primary btn-lg"></Link>
       </div>
     );
